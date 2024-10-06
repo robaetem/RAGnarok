@@ -1,0 +1,5 @@
+__pycache__
+.venv
+/embedding/finetuned_models/*
+.DS_Store
+/temp
